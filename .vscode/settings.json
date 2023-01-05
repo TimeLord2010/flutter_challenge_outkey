@@ -1,0 +1,20 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        ".idea": true,
+        "web": true,
+        "windows": true,
+        "outkey_challenge.iml": true,
+        "linux": true,
+        "ios": true,
+        "test": true,
+        "macos": true,
+        "analysis_options.yaml": true,
+        "build": true,
+    }
+}
